@@ -1,0 +1,36 @@
+The Modified IBM License ("MIL") is a modified form of the IBM Public
+License[0][1] (IPL). The MIL shortens the IPL without changing the core message
+of the license. It was written with the intent of creating a license with
+terms comparible to the GPLv3, but significantly shorter and less terse.
+
+The license allows distribution, sublicensing, modification, and commercial
+use of the program.
+
+When sublicensed, the sublicense must:
+    0. comply with all existing terms of the MIL
+    1. provide a way to obtain the program's source code
+
+The following terms must be met before distribution and use:
+    0. provide a way to obtain the program's source code
+    1. include a copy of the MIL
+    2. agree that liability of damages as a result of use of the software for a
+        particular purpose does not fall onto the program's author nor
+        contributors. 
+
+The license's disclaimer is as follows:
+
+    Copyright (C) <YEAR> <AUTHOR> and others. All Rights Reserved.
+
+If a given licensee does not conform to the terms of the license, and does not
+modify behaviour to comply with the terms of the license in a timely manner,
+all grants to the licensee are void. That is, the licensee may no longer
+distribute, use, sublicense, or modify the program.
+
+The license extends to documentation provided with the program, where that
+documentation is not licensed otherwise.
+
+[0] https://en.wikipedia.org/wiki/IBM_Public_License
+[1] https://opensource.org/licenses/IPL-1.0
+
+This text is not legally binding, nor legal advice, nor governing over the
+program it is distributed with (where applicable).
